@@ -14,7 +14,7 @@ export DEVICES=whyred
 
 export CI_ID=-1420291641
 
-export GROUP_ID=-460343147
+export GROUP_ID=-1420291641
 
 source helper
 
