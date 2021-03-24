@@ -2,13 +2,13 @@
 
 export KERNELNAME=WhysTomcats-V1-eas
 
-export LOCALVERSION=v1.0 stable
+export LOCALVERSION=v2.0 stable
 
 export KBUILD_BUILD_USER=WhysDev
 
 export KBUILD_BUILD_HOST=droneci
 
-export TOOLCHAIN=clang
+export TOOLCHAIN=gcc
 
 export DEVICES=whyred
 
